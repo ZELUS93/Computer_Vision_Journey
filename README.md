@@ -1,5 +1,5 @@
 # My_Computer_Vision_Journey
-This repository contains my Computer Vision learning journey !. 
+This repository contains my Computer Vision learning journey
   
 # Contents:
 1. Basics of Computer Vision and OpenCV
