@@ -13,6 +13,6 @@ The goal of computer vision is to understand the story unfodling in a picture. A
 ## Basics of Computer Vision and OpenCV 
 The Goal of Image Manipulation and Processing is to learn some of the basics of image processing such as blurring inages, understanding image morphology, geometric transforms and image histograms.
 
-|                |                     |                                                                           |
-| -------------  | ------------------- | ------------------------------------------------------------------------- |
-| Hier kommt was | Hier kommt das Bild | Hier kommt einen Kommentar 
+| Topic          |                     | Python        | Matlab        | Comment                                                                   |
+|----------------|---------------------|---------------|---------------|---------------------------------------------------------------------------|
+| OpenCV Intro   | Hier kommt das Bild |               |               |                                                                           |
