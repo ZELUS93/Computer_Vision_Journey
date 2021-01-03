@@ -15,4 +15,4 @@ The Goal of Image Manipulation and Processing is to learn some of the basics of 
 
 | Topic          |                     | Python        | Matlab        | Comment                                                                   |
 |----------------|---------------------|---------------|---------------|---------------------------------------------------------------------------|
-| OpenCV Intro   | Hier kommt das Bild |               |               |                                                                           |
+| OpenCV Intro   | Hier kommt das Bild |               |               | Lean how to display an image                                              |
