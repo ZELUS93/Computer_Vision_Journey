@@ -16,5 +16,5 @@ The Goal of Image Manipulation and Processing is to learn some of the basics of 
 | Topic    |  Image  |  Python                     |  Matlab                     | Comment                                                              |
 |:---      |  :---:  |  :---:                      |  :---:                      | :---                                                                 |
 | CV Intro |![](Images/trex.png)|[In Python](https://github.com/ZELUS93/Computer_Vision_Journey/blob/main/ComputerVision_Basics/1-Reading%2CDisplaying%20and%20Writing%20images/Reading-Displaying-and-Writing-Images-Python.ipynb)|[In  Matlab](https://github.com/ZELUS93/Computer_Vision_Journey/blob/main/ComputerVision_Basics/1-Reading%2CDisplaying%20and%20Writing%20images/Reading_Displaying_and_Writing_Images_Matlab.m)|Lean how to read, display and write an Image using Python and Matlab |  
-| Grayscaling | Link to Grayscale Image | Link to Python Code | Link to Matlab Code | Grayscaling is a very popular technique in computer vision to find the gradient on edge points of an image |
+| Grayscaling |![](Images/Grayscale_Trex.png)| Link to Python Code | Link to Matlab Code | Grayscaling is a very popular technique in computer vision to find the gradient on edge points of an image |
                  
