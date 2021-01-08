@@ -15,5 +15,5 @@ The Goal of Image Manipulation and Processing is to learn some of the basics of 
 
 | Topic    |  Image       |  Python                     |  Matlab                     | Comment                                                                   |
 |:---      |  :---:       |  :---:                      |  :---:                      | :---                                                                      |
-| CV Intro |![](images/trex.png)           |[In Python]                  |                             | Lean how to read, display and write an Image using Python and Matlab  
+| CV Intro |![](Images/trex.png)|[In Python]                  |                             | Lean how to read, display and write an Image using Python and Matlab  
                  
